@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing BSC in CSE at port city international university. I have learned HTML, CSS, basic Python, Java and a little bit of JavaScript. I have solved problems using both c and java, right now i am learning web development and i am at the starting stage. I have build some simple page using html and css from frontend mentor.
+I am currently doing BSC in CSE at port city international university. I have learned HTML, CSS, basic Python, Java and a little bit of JavaScript. I have solved problems using both c and java, also i am learning web development and i have done some small projects using html, css and javascript. I am also trying to build project using react js.
 
 
 ## 🌐 Socials:
